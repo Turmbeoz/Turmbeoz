@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @Turmbeoz
-- 👀 I’m interested in ... games and stuff
+- 👋 Hi, I’m Tom
+- 👀 I’m interested in fullstack web development
 - 🌱 I’m currently learning ... js and web dev. I have experience with python/data science
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... tomophilia@mac.com 
 
 <!---
