@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Tom
 - 👀 I’m interested in fullstack web development
-- 🌱 I’m currently learning ... js and web dev. I have experience with python/data science
+- 🌱 I’m work with js, React, express and web dev. I have experience with python/data science as well
 - 📫 How to reach me ... tomophilia@mac.com 
 
 <!---
